@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import { StyleSheet, TouchableOpacity, Modal, FlatList, View, Image } from "react-native";
+import { TouchableOpacity, Modal, FlatList, View, Image } from "react-native";
 import PropTypes from "prop-types";
 import { Text, Button } from "../../component";
-import { Colors, Images, ImageView, Screen, Strings } from "../../config/appConstants";
+import { Colors, ImageView, Screen, Strings } from "../../config/appConstants";
 import c from "../../styles/commonStyle";
 class MultiSelect extends Component {
 

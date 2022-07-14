@@ -1,6 +1,6 @@
 import { View, TouchableOpacity, Animated, Easing, Image, StyleSheet } from 'react-native'
 import React, { Component } from 'react'
-import { Colors, Fonts } from '../../config/appConstants';
+import { Colors } from '../../config/appConstants';
 const styles = StyleSheet.create({
 
     bubbleContainer: {
